@@ -1,0 +1,42 @@
+.body {
+    margin: 0;
+    background-color: rgb(222, 98, 140);
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.maindiv {
+    margin: 40px;
+    padding: 40px;
+    padding-top: 10px;
+    padding-left: 20px;
+    border: 1px solid black;
+
+    border-radius: 20px;
+    background-color: rgb(168, 136, 198);
+
+}
+
+#textarea {
+    width: 90%;
+    padding: 30px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.lastdiv {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+#span {
+    color: blue;
+}
+
+#span1 {
+    color: brown;
+}
